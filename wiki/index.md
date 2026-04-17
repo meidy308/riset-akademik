@@ -19,3 +19,12 @@
 - [[batch-execution]] - A practice to grouping similar task together
 - [[deep-work]] - Blocking out time to concentrating on a single task
 - [[weekly-reset]] - A time block used to audit progress and plan the upcoming week
+
+## Entities
+- [[prof-david-stuckler]] - Expert in research methodology and academic publishing, known for the 'Northstar alignment sequence'.
+
+## Syntheses
+- *(No synthesis pages created yet)*
+
+## Journal
+- *(No journal entries created yet)*
